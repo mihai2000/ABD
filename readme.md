@@ -1,0 +1,3 @@
+mongosh mongodb://mongoadmin:secret@localhost:27888/?authSource=admin
+use test
+db.project. ....
